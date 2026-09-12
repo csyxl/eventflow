@@ -1,0 +1,16 @@
+# 不部署到公网：内部申报材料
+_plan_text.txt
+*.docx
+# 未被页面引用的图片素材
+a71e3eef9e70148cd1ad18fce24d8c50.png
+# 旧版独立页面（当前 EventFlow 应用未链接）
+eventflow.html
+eventflow.js
+venueiq.html
+venueiq.js
+styles.css
+# 功能已并入主脚本、页面不再加载的增强脚本
+organizer-enhance.js
+referee-enhance.js
+public-results-enhance.js
+ef-live-metrics.js
